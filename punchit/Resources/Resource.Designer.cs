@@ -61,7 +61,7 @@ namespace punchit
 		{
 			
 			// aapt resource value: 0x7f060000
-			public const int activateNFCButton = 2131099648;
+			public const int textView1 = 2131099648;
 			
 			static Id()
 			{

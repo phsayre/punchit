@@ -16,15 +16,6 @@ namespace punchit
             // Set our view from the "main" layout resource
             SetContentView(Resource.Layout.Main);
 
-            // Get our UI controls from the layout
-            Button activateNFCButton = FindViewById<Button>(Resource.Id.activateNFCButton);
-
-            // Perform action on user click
-            activateNFCButton.Click += (sender, e) =>
-            {
-                // Activate NFC beacon
-                
-            };
         }
     }
 }
