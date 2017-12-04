@@ -1,4 +1,11 @@
-﻿using System;
+﻿/* Modified code by Philip Sayre 2017
+ * Sample code provided by monodroid
+ * github.com/xamarin/monodroid-samples/tree/master/CardEmulation
+ * Originally distributed under Apache 2.0 License
+ * http://www.apache.org/licenses/LICENSE-2.0
+ */
+
+using System;
 using Android.Nfc.CardEmulators;
 using Android.OS;
 using System.Text;
